@@ -1,1 +1,3 @@
-alert(0)
+window.onload=function(){
+    alert('Hello World!');
+}
