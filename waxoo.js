@@ -1,3 +1,3 @@
-function gotcha(){
+function gotcha() {
     alert('Hello World!');
 }
